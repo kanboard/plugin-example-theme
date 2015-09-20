@@ -14,3 +14,8 @@ Installation
 - Copy all source files in this new directory
 - Go on your local installation of Kanboard
 - After the login, you should see the alterations to the default layout
+
+Screenshot
+----------
+
+![plugin-example-theme](https://cloud.githubusercontent.com/assets/323546/9838179/6ef2b466-5a24-11e5-9988-5402eaf55026.png)
