@@ -1,10 +1,10 @@
 <?php
 
-namespace Plugin\Theme;
+namespace Kanboard\Plugin\Theme;
 
-use Core\PluginBase;
+use Kanboard\Core\Plugin\Base;
 
-class Plugin extends PluginBase
+class Plugin extends Base
 {
     public function initialize()
     {
