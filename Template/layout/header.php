@@ -1,5 +1,5 @@
 <header>
     <nav>
-        <?= $this->e($title) ?>
+        <?= $this->helper->text->e($title) ?>
     </nav>
 </header>
